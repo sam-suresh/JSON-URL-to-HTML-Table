@@ -11,7 +11,4 @@ Change id, title, userId with the field names from your JSON output.
     row.append($("<td>" + rowData.title + "</td>"));
 	row.append($("<td>" + rowData.userId + "</td>")); 
 
-Feel free to add more row or columns.
-
-http://www.mu.my
 
